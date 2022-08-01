@@ -14,7 +14,7 @@ The program uses the Union-Find algorithm to model the lattice. This algorithm u
 Given a set of nodes that can be connected to each other, and two operations to be done: union and find.
 
 ## Demonstrating
-To model a lattice and demonstrate a problem, you can run [*demonstrating.py*](https://github.com/marydrobotun/percolation/blob/master/demonstating.py).
+To model a lattice and demonstrate a problem, you can run [*demonstrating.py*](https://github.com/marydrobotun/percolation/blob/master/demonstrating.py).
 ```python
 python demonstrating.py
 ```
