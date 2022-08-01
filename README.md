@@ -1,3 +1,3 @@
 # Percolation-problem
 This is a python-library for demonstrating a simple percolation problem.
-![Описание картинки](https://drive.google.com/drive/u/0/folders/1GQZr3ONRKsrqgqc9MvoAB2S3ozM4zeT6)
+![Описание картинки](https://github.com/marydrobotun/percolation/blob/master/docs/68747470733a2f2f636f7572736572612e63732e7072696e6365746f6e2e6564752f616c6773342f61737369676e6d656e74732f706572636f6c6174696f6e2f706572636f6c617465732d7965732e706e67.png)
